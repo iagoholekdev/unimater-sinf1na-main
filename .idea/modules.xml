@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/aula03/aula03.iml" filepath="$PROJECT_DIR$/aula03/aula03.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula04/aula04.iml" filepath="$PROJECT_DIR$/aula04/aula04.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula05/aula05.iml" filepath="$PROJECT_DIR$/aula05/aula05.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula05-exercicios/aula05-exercicios.iml" filepath="$PROJECT_DIR$/aula05-exercicios/aula05-exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula06/aula06.iml" filepath="$PROJECT_DIR$/aula06/aula06.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula07-lista-exercicios/aula07-lista-exercicios.iml" filepath="$PROJECT_DIR$/aula07-lista-exercicios/aula07-lista-exercicios.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula08/aula08.iml" filepath="$PROJECT_DIR$/aula08/aula08.iml" />
+      <module fileurl="file://$PROJECT_DIR$/aula09-10-exemplos/aula09-10-exemplos.iml" filepath="$PROJECT_DIR$/aula09-10-exemplos/aula09-10-exemplos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/correcao-lista01/correcao-lista01.iml" filepath="$PROJECT_DIR$/correcao-lista01/correcao-lista01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/unimater-sinf1na-main.iml" filepath="$PROJECT_DIR$/.idea/unimater-sinf1na-main.iml" />
+    </modules>
+  </component>
+</project>
